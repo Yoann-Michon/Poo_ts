@@ -21,9 +21,11 @@ const alice = new Alien("Alice", "Betelgeuse");
 
 const chti = new Klingon("chti","Lune",false);
 const chat = new Vulcain("chat","Dune",Emotion.Interet);
-
 alice.hi();
 bob.hi();
 
 negocier(chti);
 negocier(chat);
+
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIO3+7ZiM0kwAF5utfnS+iPPssFyjoY6nAEe5L+YmURy+ yoann972.wm@outlook.com
