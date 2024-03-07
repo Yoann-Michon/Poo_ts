@@ -26,6 +26,3 @@ bob.hi();
 
 negocier(chti);
 negocier(chat);
-
-
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIO3+7ZiM0kwAF5utfnS+iPPssFyjoY6nAEe5L+YmURy+ yoann972.wm@outlook.com
